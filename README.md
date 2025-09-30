@@ -16,4 +16,4 @@ The game demonstrates practical use of fundamental data structures while providi
 ---
 
 ## Collaboration
-Built this project with Dylan Clements [github link](https://github.com/dylanclements7)
+Built this project with Dylan Clements: [github](https://github.com/dylanclements7)
